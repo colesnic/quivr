@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.228 (2024-03-30)
+
+## What's Changed
+* fix(frontend): phone display issues by @Zewed in https://github.com/QuivrHQ/quivr/pull/2386
+* Patch 1 by @llwp in https://github.com/QuivrHQ/quivr/pull/2388
+* fix: typo in README.md by @bolens in https://github.com/QuivrHQ/quivr/pull/2391
+
+## New Contributors
+* @llwp made their first contribution in https://github.com/QuivrHQ/quivr/pull/2388
+* @bolens made their first contribution in https://github.com/QuivrHQ/quivr/pull/2391
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.227...v0.0.228
+
 ## 0.0.227 (2024-03-28)
 
 ## What's Changed
